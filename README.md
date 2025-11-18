@@ -28,6 +28,3 @@ The analysis is based on a retail sales dataset, split across multiple sheets, p
 * **Top-Performing Category:** Electronics accounts for the highest share of total sales.
 * **Generational Spending:** The **Adult** demographic contributes the largest percentage of total sales.
 * **Gender Split:** The overall total sales are almost equally split between Female and Male customers.
-    ```
-2.  **Open the Excel File:** Open the main Excel workbook (`retail_sales_dataset_Master - arooj 1.xlsx`) in Microsoft Excel.
-3.  **Explore the Sheets:** Navigate through the sheets to see the implemented functions, Pivot Tables, and dynamic reports.
